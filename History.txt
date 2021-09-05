@@ -1,0 +1,9 @@
+YM2413 revision history
+-=-=-=-=-=-=-=-=-=-=-=-=-
+
+
+V0.0.1 - 2016-07-31 (FluBBa)
+	Changed to unified assembler style.
+
+V0.0.0 - 2015-07-25 (FluBBa)
+	Started coding.
